@@ -17,7 +17,7 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/php-ED8B00?style=for-the-badge&logo=php&logoColor=white)
+![Php](https://img.shields.io/badge/php-8A2BE2?style=for-the-badge&logo=php&logoColor=white)
 
 #### ML/DL
 
