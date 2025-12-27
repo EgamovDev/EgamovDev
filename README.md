@@ -60,14 +60,14 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=XayitovB&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XayitovB&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EgamovDevB&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Egamov github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgamovDev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 
 ----
-[<img src="https://[github-profile-trophy.vercel.app/?username=XayitovB&row=2&column=3](https://github-profile-trophy.vercel.app/?username=XayitovB&row=2&column=3)" />](https://github.com/ryo-ma/github-profile-trophy)
-[<img src="https://github-readme-stats.vercel.app/api?username=XayitovB&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XayitovB&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[<img src="https://[github-profile-trophy.vercel.app/?username=EgamovDev&row=2&column=3](https://github-profile-trophy.vercel.app/?username=EgamovDev&row=2&column=3)" />](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://github-readme-stats.vercel.app/api?username=EgamovDev&theme=algolia&count_private=true&include_all_commits=true&show_icons=true" />](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EgamovDev&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Durgesh's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themlphdstudent&theme=algolia&hide=Jupyter&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  -->
 
